@@ -1,8 +1,8 @@
 <?php
 class Database
 {
-    const USERNAME = 'immuslim844@gmail.com';
-    const PASSWORD = 'psdsjaunkehuxggc';
+    const USERNAME = 'Write Your Google Account here';
+    const PASSWORD = '<write your google application password here>';
     private $dns = "mysql:host=localhost;dbname=db_user_system";
     private $dbuser = "root";
     private $dbpass = "";
