@@ -1,0 +1,21 @@
+in SQL :
+    -DATE_ADD(NOW(),INTERVAL 10 MINUTE)
+    -token & token_expire
+
+in PHP :
+    -uniqid() function
+    -str_shuffle() function
+    -basename() function
+    -strtok() function
+    -strtotime() function
+    -unlink('directory') function to delete files & images
+    -SHA1 function in MYsql to hash password
+
+in HTML
+    -enctype="multipart/form-data" in Form to upload images
+
+in libirarise
+    -PHPMailer
+        *how to get Google's password app
+    -DataTable.net
+    -Google Chart.
